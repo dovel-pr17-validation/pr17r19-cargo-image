@@ -8,7 +8,7 @@ publish = false
 path = ".."
 
 [dependencies.afl]
-version = "0.12.8"
+version = "0.18.2"
 
 # Prevent this from interfering with workspaces
 [workspace]
